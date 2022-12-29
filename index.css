@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background: url(../imgs/Accordion\ Practice\ Project\ Background.jpg) no-repeat center center fixed;
+    background: url(./img/Accordion\ Practice\ Project\ Background.jpg) no-repeat center center fixed;
     background-size: cover;
     overflow: hidden;
 }
